@@ -187,7 +187,7 @@ h1,h2,h3, .h1,.h2,.h3{
 .item-wrap .row .item .well { 
 	height: 200px;
 	font-size: initial; 
-	background: aliceblue; 
+	background: #fff; 
 }
 .item-wrap .row .item .well:before { 
 	content: ''; 
